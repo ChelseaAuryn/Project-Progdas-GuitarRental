@@ -3,7 +3,7 @@
 Project Pemrograman Dasar Guitar Rental
 
 Kelompok 5 :
-- Rizqya Alika Cahya Kurniawan ()
+- Rizqya Alika Cahya Kurniawan (25/557216/TK/62887)
 - Chelsea Auryn Valda (25/557774/TK/62988)
 - Nailah Tsurayya Putri Juhari (25/564852/TK/63715)
 
